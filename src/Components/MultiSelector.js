@@ -40,7 +40,7 @@ const MultiSelector = () => {
         setSelectedId(tempdata)
     }
     return (
-        <div className='checkboxContainer'>
+        <div>
             <div >
                 <input
                     id="checkbox"

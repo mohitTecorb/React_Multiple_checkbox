@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(5px + 2vmin);
   color: black;
+  text-align: left;
 }
 
 .App-link {
@@ -62,6 +63,4 @@ input[type='checkbox']{
   height: 17px;
   zoom: 1.25;
 }
-.checkboxContainer{
-  /* display: flex; */
-}
+
